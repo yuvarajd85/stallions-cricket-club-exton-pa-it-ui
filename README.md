@@ -13,6 +13,10 @@ Static website for `Stallions Cricket Club` hosted using `AWS - S3` service
 ## Contacts
 - stallionsccextonpait@gmail.com
 
+### Webite
+
+[Stallions Cricket Club](http://stallions-cricket-club-exton-pa-it.s3-website-us-east-1.amazonaws.com/)
+
 ---
 
 ### Repo/Project Details
